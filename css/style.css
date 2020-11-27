@@ -1006,4 +1006,7 @@ video{
 	.warch-right{
 		width: 80%;
 	}
+	.section-header{
+		font-size: 2rem;
+	}
 }
